@@ -1,4 +1,6 @@
-.one {
+.one,
+.three,
+.five {
   color: rgb (255, 182, 193);
   font-family: "Verdana", "DejaVu Sans", sans-serif;
 }
@@ -9,8 +11,6 @@
 }
 
 .three {
-  color: rgb (255, 182, 193);
-  font-family: "Verdana", "DejaVu Sans", sans-serif;
   font-size: 24px;
 }
 
@@ -20,7 +20,3 @@
   font-weight: bold;
 }
 
-.five {
-  color: rgb (255, 182, 193);
-  font-family: "Verdana", "DejaVu Sans", sans-serif;
-}
