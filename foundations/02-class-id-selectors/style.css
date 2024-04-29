@@ -8,11 +8,11 @@
 }
 
 #two {
-  color: rgb(0, 0, 255);
+  color: #0000ff;
   font-size: 36px;
 }
 
 #four {
-  background-color: rgb(144, 238, 144);
+  background-color: hsl(120, 100%, 75%);
   font-weight: bold;
 }
