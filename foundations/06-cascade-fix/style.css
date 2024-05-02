@@ -29,13 +29,11 @@ body {
   font-size: 20px;
 }
 
-
-
-.text .child {
-    color: rgb(0, 0, 0);
-    font-weight: 800;
-    font-size: 14px;
-  }
+div .child {
+  color: rgb(0, 0, 0);
+  font-weight: 800;
+  font-size: 14px;
+}
 
 div.text {
   color: rgb(0, 0, 0);
